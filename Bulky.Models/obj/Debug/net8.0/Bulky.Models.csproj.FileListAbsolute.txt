@@ -1,0 +1,11 @@
+C:\Users\jagdish sharma\DotNet_Projects\BulkyWeb\Bulky.Models\bin\Debug\net8.0\Bulky.Models.deps.json
+C:\Users\jagdish sharma\DotNet_Projects\BulkyWeb\Bulky.Models\bin\Debug\net8.0\Bulky.Models.dll
+C:\Users\jagdish sharma\DotNet_Projects\BulkyWeb\Bulky.Models\bin\Debug\net8.0\Bulky.Models.pdb
+C:\Users\jagdish sharma\DotNet_Projects\BulkyWeb\Bulky.Models\obj\Debug\net8.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jagdish sharma\DotNet_Projects\BulkyWeb\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfoInputs.cache
+C:\Users\jagdish sharma\DotNet_Projects\BulkyWeb\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfo.cs
+C:\Users\jagdish sharma\DotNet_Projects\BulkyWeb\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.CoreCompileInputs.cache
+C:\Users\jagdish sharma\DotNet_Projects\BulkyWeb\Bulky.Models\obj\Debug\net8.0\Bulky.Models.dll
+C:\Users\jagdish sharma\DotNet_Projects\BulkyWeb\Bulky.Models\obj\Debug\net8.0\refint\Bulky.Models.dll
+C:\Users\jagdish sharma\DotNet_Projects\BulkyWeb\Bulky.Models\obj\Debug\net8.0\Bulky.Models.pdb
+C:\Users\jagdish sharma\DotNet_Projects\BulkyWeb\Bulky.Models\obj\Debug\net8.0\ref\Bulky.Models.dll
